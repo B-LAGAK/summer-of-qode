@@ -1,0 +1,11 @@
+Assignement 1 Code
+print("How many years before you turn hundred" )
+a= int(input("What is your current age:"))
+print(100-a)
+
+Assignement 2 Code
+
+
+a = int(input("Enter the first number: "))
+b = int(input("Enter the second number: ")) 
+print(a*15+b*30)
